@@ -12,6 +12,6 @@ public class App {
         System.out.println("git_test2");
         System.out.println("branch test 2");
         System.out.println("hello");
-        System.out.println("branch test 3333");
+        System.out.println("branch test 6666");
     }
 }
