@@ -10,5 +10,6 @@ public class App {
         System.out.println("3333");
         System.out.println("branch develop 1.4.9");
         System.out.println("git_test2");
+        System.out.println("branch test 2");
     }
 }
